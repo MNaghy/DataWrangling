@@ -1,0 +1,89 @@
+{
+    "Engineering": [
+        "biomedical+engineer",
+        "industrial+engineer",
+        "civil+engineer",
+        "chemical+engineer",
+        "electrical+engineer",
+        "computer+engineer",
+        "petroleum+engineer",
+        "Mechanical+Engineer"
+    ],
+    "Entertainment": [
+        "photographer",
+        "graphic+designer",
+        "fashion+designer",
+        "music+producer",
+        "filmmaker",
+        "animator"
+    ],
+    "Administration": [
+        "secretary",
+        "human+resource+manager",
+        "administrative+assistant",
+        "office+administartor"
+    ],
+    "Business": [
+        "business+consultant",
+        "business+development+manager",
+        "accountant",
+        "cost+estimator",
+        "Financial+Advisor",
+        "Audit+clerk"
+    ],
+    "Communication": [
+        "journalist",
+        "public+relations+agent",
+        "event+planner",
+        "social+media+manager",
+        "Interpreter",
+        "Translator"
+    ],
+    "Education": [
+        "school+principal",
+        "teacher",
+        "professor",
+        "special+education+teacher",
+        "school+Psychologist"
+    ],
+    "Science": [
+        "physicist",
+        "microbiologist",
+        "archaeologist",
+        "laboratory+technician"
+    ],
+    "Technology": [
+        "software+engineer",
+        "data+scientist",
+        "full+stack+developer",
+        "data+engineer",
+        "backend-developer",
+        "computer+system+analyst",
+        "database+administrator",
+        "web+developer"
+    ],
+    "Medicine": [
+        "nurse",
+        "veterinarian",
+        "dental+assistant",
+        "anesthesiologists",
+        "Dentist",
+        "Pharmacist",
+        "Physical+Therapist+Assistant",
+        "Epidemiologist",
+        "paramedic"
+    ],
+    "Sales": [
+        "sales+associate",
+        "sales+manager",
+        "account+executive",
+        "sales+development+representation"
+    ],
+    "Marketing": [
+        "Market+Research+Analyst",
+        "marketing+assistant",
+        "marketing+manager",
+        "product+owner",
+        "product+manager"
+    ]
+}
